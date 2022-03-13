@@ -1,0 +1,1 @@
+# read a file and count the number of fruits in diff lines with multiple occurences
