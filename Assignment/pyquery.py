@@ -3,11 +3,6 @@
 #   jpath-py
 #   An XPath-like querying interface for JSON objects
 #
-#   author: Vasileios Mitrousis
-#   email: vamitrou@gmail.com
-#
-#   The software is given as is, no guarantees from the author
-#   Licenced under Apache 2.0 licence
 #
 ########################################################################
 
